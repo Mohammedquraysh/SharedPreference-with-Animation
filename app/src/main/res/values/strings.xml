@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegistrationFormWithSharedPreference</string>
+    <string name="save">Save</string>
+    <string name="load">load</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="age">age</string>
+    <string name="full_name">full name</string>
+</resources>
